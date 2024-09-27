@@ -53,7 +53,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="500" />
 </p>
 
