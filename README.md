@@ -1,6 +1,4 @@
-## Hi there 👋
-                                                         Languages and Tools 🔑
-
+                                                         Hi there 👋
 <p align="center">
   <img alig src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" /> 
 </p>
