@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="300"/> 
+  <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="400"/> 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="400" />
 </p>
 
 ## 📋 Languages
@@ -38,7 +38,7 @@
 
 ## 💻 IDEs/Editors
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-[CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
