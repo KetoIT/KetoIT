@@ -2,7 +2,7 @@
 ### Languages and Tools 🔑
 
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+  <img alig src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" /> 
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
