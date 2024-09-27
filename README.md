@@ -2,10 +2,6 @@
   <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="800"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="500" />
-</p>
-
 ## 📋 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,6 +52,11 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="500" />
+</p>
+
 
 
 
