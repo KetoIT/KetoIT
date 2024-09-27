@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="600"/> 
+  <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="800"/> 
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KetoIt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="500" />
 </p>
 
