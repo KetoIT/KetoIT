@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="300"/> 
+<p align="left">
+  <img align="left" src="https://github.com/KetoIT/KetoIT/blob/main/0927(1).gif" alt="Gif" width="300"/> 
 </p>
 
 <p align="right">
